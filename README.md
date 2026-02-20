@@ -7,7 +7,7 @@ Bienvenue sur mon portfolio en ligne ! Cette application a été développée en
 Pour exécuter cette application, il vous suffit de cloner le dépôt et d'exécuter les commandes suivantes dans votre terminal :
 
 ```shell
-$ git clone https://github.com/Fredray-21/portfolio-term.git
+$ git clone https://github.com/Fredray21/portfolio-term.git
 $ cd portfolio-term
 $ npm install
 $ npm start
@@ -19,7 +19,7 @@ Cela installera les dépendances nécessaires et lancera l'application dans votr
 Ce portfolio présente mes projets, mes compétences et mes expériences professionnelles.
 
 ## Disponibilité
-Ce Portfolio est disponible sur [ce lien.](https://terminal.frederic-dabadie.fr)
+Ce Portfolio est disponible sur [ce lien.](https://term.frederic-dabadie.fr)
 
 
 ## Captures d'écran
